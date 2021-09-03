@@ -1,13 +1,13 @@
-# Getting Started with Create React App
 
-Weather App using ReactJS
+
+# Weather App using ReactJS
 
 
 
 https://user-images.githubusercontent.com/61706379/131955210-09744ed8-d1eb-4832-9c26-a98276a78389.mp4
 
 
-
+## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
